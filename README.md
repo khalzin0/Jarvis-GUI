@@ -3,11 +3,8 @@ A little project I'm working on and will continue to improve. To run the program
 
 # To Check My Progress:
 Click Here:
-
 https://trello.com/b/rcxsGWEk/jarvis-work
 
-install these libraries:
-
+# Install these libraries:
 pip install customtkinter
-
 pip install pyttsx3
